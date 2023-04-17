@@ -1,0 +1,49 @@
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  font-family: Roboto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-size: 35px;
+}
+.number {
+  color: #c20a72;
+  font-size: 35px;
+}
+.paragraph {
+  color: #2d3a35;
+  font-size: 16px;
+}
+.button {
+  width: 100px;
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 13px;
+  border: 0px;
+  padding: 10px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 50px;
+}
+.button1 {
+  width: 100px;
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 13px;
+  border: 0px;
+  padding: 10px;
+  text-align: center;
+  outline: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
